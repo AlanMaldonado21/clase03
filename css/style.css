@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
+
+html{
+    font-size: 16px;
+}
+
+p{
+    /* display: inline; */
+    background-color: blue;
+    /* Propiedades para modificar el contenido */
+    color: white;
+    font-size: 2rem;
+    text-decoration: underline;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-style: italic;
+    /* ancho  */
+    width: 500px;
+    /* alto */
+    /* height: 250px; */
+
+    /* PADDING (RELLENO INTERNO) */
+    /* LADO SUPERIOR */
+    /* padding-top: 50px; */
+    /* LADO IZQUIERDO */
+    /* padding-left: 25px; */
+    /* LADO INFERIOR */
+    /* padding-bottom: 20px; */
+    /* LADO DERECHO */
+    /* padding-right: 90px; */
+    /* PADDING TOP Y BOTTOM | LEFT Y RIGHT */
+    /* padding: 20px 55px; */
+    /* PADDING GENERAL */
+    /* padding: 25px; */
+    /* PADDING INDEPENDIENTE */
+    padding: 10px 150px 50px 55px;
+
+    /* MARGIN */
+    /* margin-bottom: 69px;
+    margin-left: 75px;
+    margin-top: 90px;
+    margin-right: 550px; */
+    /* MARGIN INDEPENDIENTE */
+    margin: 10px 0 55px 90px;
+}
+
+a{
+    background-color: #F1F100;
+    /* BORDER */
+    border: 5px solid black;
+    border-radius: 5px;
+    padding: 20px;
+
+    text-decoration: none;
+    color: #000000;
+    font-weight: bold;
+
+    /* MARGIN ES DARLE UN MARGEN A MI CAJITA */
+
+    display: block;
+}
