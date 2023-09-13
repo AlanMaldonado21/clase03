@@ -4,6 +4,10 @@ html{
     font-size: 16px;
 }
 
+body{
+    background-color: red;
+}
+
 p{
     /* display: inline; */
     background-color: blue;
